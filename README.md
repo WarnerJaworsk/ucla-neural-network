@@ -52,8 +52,8 @@ If you want to run the application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/WarnerJaworsk/ucla-neural-network/upload/main
-   cd credit_eligibility_application
+   git clone https://github.com/WarnerJaworsk/ucla-neural-network.git
+   cd ucla-neural-network
 
    ```
 
