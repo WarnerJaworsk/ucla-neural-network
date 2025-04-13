@@ -2,7 +2,7 @@
 
 This app has been built using Streamlit and deployed with Streamlit community cloud
 
-[Visit the app here](https://w13admissionchance.streamlit.app/)
+[Visit the app here](https://ucla-neural-network-hdazgtdncj8jyyfpa6zjfc.streamlit.app/)
 
 password - streamlit
 
